@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Taskflow | Simple task management",
+  title: "TaskAuth | Simple task management",
   description: "A simple, secure workspace for your personal tasks.",
 };
 

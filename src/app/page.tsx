@@ -36,7 +36,7 @@ export default function Home() {
             Keep your day focused, one task at a time.
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-8 text-slate-600">
-            Taskflow gives you a calm, secure space to capture your tasks, track
+            TaskAuth gives you a calm, secure space to capture your tasks, track
             progress, and stay on top of what matters.
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">

@@ -22,7 +22,7 @@ export default function LoginPage() {
           <LoginForm />
         </div>
         <p className="mt-6 text-center text-sm text-slate-600">
-          New to Taskflow?{" "}
+          New to TaskAuth?{" "}
           <Link
             href="/signup"
             className="font-semibold text-indigo-600 hover:text-indigo-700"
